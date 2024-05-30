@@ -1,2 +1,2 @@
 # portfolio
-a technical writing portfolio
+a content developer portfolio
