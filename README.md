@@ -1,2 +1,2 @@
 # portfolio
-a content developer portfolio
+a content development portfolio
